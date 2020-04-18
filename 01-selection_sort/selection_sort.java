@@ -1,4 +1,4 @@
-class Main {
+class selection_sort {
   public static void main(String[] args) {
 
     int[] array = {2, 10, 11, 5, 8, 200, -1};
